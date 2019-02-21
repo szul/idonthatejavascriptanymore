@@ -1,0 +1,25 @@
+{
+  "name": "i.dont.hate.javascript.anymore",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A collection of IJavaScript Jupyter Notebooks and JavaScript files for the I Don't Hate JavaScript Anymore video tutorial series.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szul/idonthatejavascriptanymore.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szul/idonthatejavascriptanymore/issues"
+  },
+  "homepage": "https://github.com/szul/idonthatejavascriptanymore#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "watson-developer-cloud": "^3.18.1"
+  }
+}
