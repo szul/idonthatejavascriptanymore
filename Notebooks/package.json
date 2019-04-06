@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/szul/idonthatejavascriptanymore#readme",
   "dependencies": {
-    "jsdom": "^14.0.0"
+    "jsdom": "^14.0.0",
+    "mocha": "^6.0.2"
   }
 }
