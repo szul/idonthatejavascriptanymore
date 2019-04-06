@@ -17,9 +17,6 @@
   },
   "homepage": "https://github.com/szul/idonthatejavascriptanymore#readme",
   "dependencies": {
-    "dotenv": "^6.2.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
-    "watson-developer-cloud": "^3.18.1"
+    "jsdom": "^14.0.0"
   }
 }
